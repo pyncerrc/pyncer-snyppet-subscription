@@ -1,7 +1,7 @@
 {
     "name": "pyncer/snyppet-subscription",
     "type": "library",
-    "description": "Pyncer snyppet for grouping users under an subscription.",
+    "description": "Pyncer snyppet for handling user subscriptions.",
     "homepage": "https://pyncer.com/snyppet/subscription",
     "license": "Unlicense",
     "require": {
